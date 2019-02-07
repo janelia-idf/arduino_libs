@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map for max1270 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MAX1270	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setBipolar	KEYWORD2
+setUnipolar	KEYWORD2    
+setRange5V	KEYWORD2
+setRange10V	KEYWORD2
+setInternalClock	KEYWORD2  
+setExternalClock	KEYWORD2
+sample	KEYWORD2
+sampleAll	KEYWORD2
+sampleVolts	KEYWORD2
+sampleAllvolts	KEYWORD2
+numChan	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MAX1270_NUMCHAN	LITERAL1
+

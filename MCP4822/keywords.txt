@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map for mcp4822 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MCP4822	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setValue	KEYWORD2
+setValue_A	KEYWORD2
+setValue_B	KEYWORD2
+setValue_AB	KEYWORD2
+setGain2X	KEYWORD2
+setGain2X_A	KEYWORD2
+setGain2X_B	KEYWORD2
+setGain2X_AB	KEYWORD2
+setGain1X	KEYWORD2
+setGain1X_A	KEYWORD2
+setGain1X_B	KEYWORD2
+setGain1X_AB	KEYWORD2
+off_AB	KEYWORD2
+off_A	KEYWORD2
+off_B	KEYWORD2
+off	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MCP4822_NUMCHAN	LITERAL1
+

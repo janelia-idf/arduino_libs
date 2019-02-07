@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map for max1270 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MCP4261	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initialize	KEYWORD2
+setWiper	KEYWORD2
+setWiper0	KEYWORD2
+setWiper1	KEYWORD2
+incrWiper	KEYWORD2
+decrWiper	KEYWORD2
+incrWiper0	KEYWORD2
+incrWiper1	KEYWORD2
+decrWiper0	KEYWORD2
+decrWiper1	KEYWORD2
+setWiper_NonVolatile	KEYWORD2
+setWiper0_NonVolatile	KEYWORD2
+setWiper1_NonVolatile	KEYWORD2
+writeEEPROM	KEYWORD2
+readEEPRON	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MCP4261_WIPER_0	LITERAL1 
+MCP4261_WIPER_1	LITERAL1 
+

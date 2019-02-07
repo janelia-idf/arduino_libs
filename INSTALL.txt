@@ -1,0 +1,23 @@
+arduino_libs installation instructions
+
+Using the install script liblinks.py 
+------------------------------------
+
+Note, running this script requires python 2.6 or greater.
+
+To install the libraries run "python liblinks.py install". This will create a
+set of symbolic links to the library directories in the the users
+sketchbook/libraries directory.
+
+To remove the libraries run "python liblinks.py remove". This will remove all
+of the symbolic links created above.
+
+
+Manual installation
+-------------------
+Copy the desired subdirectories of arduino_libs to the users
+sketchbook/libraries directory.
+
+
+
+
